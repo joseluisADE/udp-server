@@ -22,7 +22,6 @@
 /********************* Type Definitions ************************/
 /******************* Constant Definitions **********************/
 #define SERVER_PORT 5000
-#define CLIENT_PORT 5001
 #define BUFFSIZE 1024
 
 /*********** Macros (Inline Functions) Definitions *************/
