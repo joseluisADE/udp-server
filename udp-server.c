@@ -5,8 +5,8 @@
 // /_/ |_/____/___/   //
 //********************//
 //!
-//! \file: server-udp.c
-//! \brief: UPD server sample
+//! \file: udp-server.c
+//! \brief: UDP server sample
 //! \author: Jose Luis Unibaso
 
 /********************** Include Files **************************/
