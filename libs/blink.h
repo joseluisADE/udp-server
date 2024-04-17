@@ -5,8 +5,8 @@
 // /_/ |_/____/___/   //
 //********************//
 //!
-//! \file: server-udp.c
-//! \brief: UPD server sample
+//! \file: blink.h
+//! \brief: Header for blink library
 //! \author: Jose Luis Unibaso
 
 /********************** Include Files **************************/
