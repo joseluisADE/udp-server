@@ -33,7 +33,8 @@
 //
 
 int main(void) {
-    int sock, len, num;
+    int sock, num;
+    socklen_t len;
     char buffer[BUFFSIZE];
     char str[INET_ADDRSTRLEN];
     struct sockaddr_in serveraddr, clientaddr;
